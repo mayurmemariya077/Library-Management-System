@@ -2,6 +2,10 @@
 
 Project Live URl :- https://onlinegdb.com/p0v6WW_Bt
 
+Explanation Video :- https://drive.google.com/file/d/1H4rctYL9YplQSJH6dOkGFdWcXAj9bQKe/view?usp=drivesdk
+
+
+
 # 📚 Library Management System (C++)
 
 A **Library Management System** developed in **C++** using **Object-Oriented Programming (OOP)** concepts. This console-based application helps manage different library items such as **Books, DVDs, and Magazines**. It demonstrates key OOP principles including **Abstraction, Encapsulation, Inheritance, Polymorphism, Dynamic Memory Allocation, and Exception Handling**.
